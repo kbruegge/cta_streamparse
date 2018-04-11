@@ -1,0 +1,3 @@
+streamparse # always required for streamparse projects
+#msgpack
+#pandas
